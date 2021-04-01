@@ -1,0 +1,20 @@
+{
+    "lis": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-livingseeds-lis-191056-authRole",
+            "UnauthRoleArn": "arn:aws:iam::398655981346:role/amplify-livingseeds-lis-191056-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::398655981346:role/amplify-livingseeds-lis-191056-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-livingseeds-lis-191056-deployment",
+            "UnauthRoleName": "amplify-livingseeds-lis-191056-unauthRole",
+            "StackName": "amplify-livingseeds-lis-191056",
+            "StackId": "arn:aws:cloudformation:us-east-2:398655981346:stack/amplify-livingseeds-lis-191056/bb495740-83d5-11ea-9440-02848c93abf4",
+            "AmplifyAppId": "d2v6x0rsnlipnj"
+        },
+        "categories": {
+            "auth": {
+                "livingseeds79dea8b1": {}
+            }
+        }
+    }
+}

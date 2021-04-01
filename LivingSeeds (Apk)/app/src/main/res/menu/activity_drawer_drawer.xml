@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="USER PROFILE" />
+        <item
+            android:id="@+id/soil_properties"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Location" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Connect To IOT" />
+        <item
+            android:id="@+id/invite"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Predicted Crop" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="LOGOUT" />
+    </group>
+
+</menu>

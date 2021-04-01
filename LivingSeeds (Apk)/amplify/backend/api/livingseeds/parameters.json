@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "livingseeds",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authlivingseeds79dea8b1",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
